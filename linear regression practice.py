@@ -15,7 +15,7 @@ sns.set() #for fancy graphs
 # In[2]:
 
 
-data = pd.read_csv(r"...Simple linear regression.csv")
+data = pd.read_csv(r"...Simple linear regression.csv") #not real file path :)
 data
 
 
